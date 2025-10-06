@@ -7,7 +7,7 @@ Whether it's backend logic, visual interfaces, or operating systems, I'm learnin
 
 ## 🧠 Who Am I?
 
-- 🎓 A student passionate about **open-source technologies**
+- 🎓 A curious student trying to learn whatever he can.
 - 🐍 Currently building hands-on projects in **Python**
 - 🌐 Exploring **HTML, CSS, JavaScript** for frontend magic
 - 🎨 Diving into **UI/UX** to create meaningful user experiences
@@ -47,7 +47,7 @@ Includes:
 - Password Generator  
 
 ### 🎨 [UI/UX Practice Projects](#) *(Coming Soon)*  
-Design concepts and wireframes built using Figma and Adobe XD  
+Design concepts and wireframes built using Figma  
 - App onboarding flow  
 - Minimal finance dashboard  
 - Responsive card layouts  
